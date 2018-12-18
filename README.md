@@ -17,3 +17,10 @@ Host repository of all teaching curriculum created and taught by With Madi Co.
 - [**Hackerrank**](https://www.hackerrank.com) is a great resource to practice foundations of programming, new programming languages, interview preparation, or just to keep your skills sharp. Highly recommend starting with the _30 Days of Code_ Challenge. 
 - [**Flashcards For Developers**](https://www.flashcardsfordevelopers.com/) A great platform to help you study for developing interviews, to test if you truly understand the concepts of programming. 
 - [**The Programmer Toolbox**](https://medium.com/@theprogrammertoolbox) is a wonderful podcast started by two incredible Women in Tech, Kathryn Hodge and Robyn Silber that aims to introduce others to coding and start more converstaions around different topics in technology. 
+- [**Git**](https://git-scm.com/) is a powerful tool and learn and to incorporate into your projects and knowledge base. This resource is more for people who are familiar with Git, but not aware of all the capabilities of the tool.
+- [**Learn Git Branching**](https://learngitbranching.js.org/) is a great resource to get you started in the world of git and version control. 
+- [**Learn X in Y Minutes**](https://learnxinyminutes.com) is great for when you know what programming language you want to learn. Choose a language and go through the page to learn the basic fundamentals of the language. 
+
+### Fun Tools to Play With
+- To solve the ever going debate between Vim vs. Emacs, there's [Spacemacs](http://spacemacs.org/), a community driven Emacs distribution. 
+- [**r/learnprogramming**](https://www.reddit.com/r/learnprogramming) has a lot of other great resources for learning programming and a community to learn it with.
