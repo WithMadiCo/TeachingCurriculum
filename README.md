@@ -20,6 +20,7 @@ Host repository of all teaching curriculum created and taught by With Madi Co.
 - [**Git**](https://git-scm.com/) is a powerful tool and learn and to incorporate into your projects and knowledge base. This resource is more for people who are familiar with Git, but not aware of all the capabilities of the tool.
 - [**Learn Git Branching**](https://learngitbranching.js.org/) is a great resource to get you started in the world of git and version control. 
 - [**Learn X in Y Minutes**](https://learnxinyminutes.com) is great for when you know what programming language you want to learn. Choose a language and go through the page to learn the basic fundamentals of the language. 
+- [**FreeCodeCamp**](https://www.freecodecamp.org/) is an AMAZING resource for everything technology. I read new articles from here everyday.
 
 ### Fun Tools to Play With
 - To solve the ever going debate between Vim vs. Emacs, there's [Spacemacs](http://spacemacs.org/), a community driven Emacs distribution. 
