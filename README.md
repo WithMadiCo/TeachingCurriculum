@@ -2,7 +2,9 @@
 Host repository of all teaching curriculum created and taught by With Madi Co.
 
 ### Current Classes: 
-
+- [Introduction to Web Development: Let's Build Your Personal Website](https://github.com/WithMadiCo/BetaTeam)
+- [Building a Smart Mirror with MagicMirror](https://github.com/WithMadiCo/IntroToTechnology)
+- [How to Create An Alexa Skill](https://gist.github.com/madiedgar/57e1d07535cacef3091be40cddb70ce6)
 
 ### Potential Teaching Ideas / Platforms to use:
 
