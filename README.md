@@ -1,4 +1,4 @@
-# TeachingCurriculum
+# With Madi Co. Teaching Curriculum
 Host repository of all teaching curriculum created and taught by With Madi Co. Be sure to check out the [With Madi Co. Twitch Channel](https://www.twitch.tv/withmadico) for live tutorials and for first looks into new lessons. 
 
 ### Current Classes: 
