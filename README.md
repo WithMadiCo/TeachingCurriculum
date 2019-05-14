@@ -3,7 +3,7 @@ Host repository of all teaching curriculum created and taught by With Madi Co. B
 
 ### Current Classes: 
 In the 2018-2019 school year, I taught an Introduction to Programming course at a high school. You can find the class curriculum I created as we traversed through the various activities here: [Build With Code](https://github.com/WithMadiCo/BuildWithCode). Below are shorter tutorials / classes I've taught as workshops in multiple arenas: 
-- [Introduction to Web Development: Let's Build Your Personal Website](https://github.com/WithMadiCo/BetaTeam)
+- [Introduction to Web Development: Let's Build Your Personal Website](https://github.com/WithMadiCo/https://github.com/WithMadiCo/IntroductionToWebDevelopment-PersonalPortfolioWebsite)
 - [Building a Smart Mirror with MagicMirror](https://github.com/WithMadiCo/BuildWithCode-MagicMirror)
 - [How to Create An Alexa Fact Skill (gist)](https://gist.github.com/madiedgar/57e1d07535cacef3091be40cddb70ce6)
 - [How to Create An Alexa Trivia Skill (class)](https://github.com/WithMadiCo/BuildWithCode-AlexaTriviaSkill)
