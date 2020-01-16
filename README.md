@@ -1,5 +1,5 @@
 # With Madi Co. Teaching Curriculum
-Host repository of all teaching curriculum created and taught by With Madi Co. Be sure to check out the [With Madi Co. Twitch Channel](https://www.twitch.tv/withmadico) for live tutorials and for first looks into new lessons. 
+This is the host repository of all teaching curriculum created and taught by With Madi Co. Be sure to check out the [With Madi Co. Twitch Channel](https://www.twitch.tv/withmadico) for live tutorials and for first looks into new lessons. 
 
 ### Previous Classes: 
 In the 2018-2019 school year, I taught an Introduction to Programming course at a high school. You can find the class curriculum I created as we traversed through the various activities here: [Build With Code](https://github.com/WithMadiCo/BuildWithCode). Below are shorter tutorials / classes I've taught as workshops in multiple arenas: 
